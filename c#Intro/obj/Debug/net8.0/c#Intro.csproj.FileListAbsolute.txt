@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\c#Intro\c#Intro\bin\Debug\net8.0\c#Intro.exe
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\c#Intro\c#Intro\bin\Debug\net8.0\c#Intro.deps.json
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\c#Intro\c#Intro\bin\Debug\net8.0\c#Intro.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\c#Intro\c#Intro\bin\Debug\net8.0\c#Intro.dll
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\c#Intro\c#Intro\bin\Debug\net8.0\c#Intro.pdb
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\c#Intro\c#Intro\obj\Debug\net8.0\c#Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\c#Intro\c#Intro\obj\Debug\net8.0\c#Intro.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\c#Intro\c#Intro\obj\Debug\net8.0\c#Intro.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\c#Intro\c#Intro\obj\Debug\net8.0\c#Intro.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\c#Intro\c#Intro\obj\Debug\net8.0\c#Intro.sourcelink.json
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\c#Intro\c#Intro\obj\Debug\net8.0\c#Intro.dll
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\c#Intro\c#Intro\obj\Debug\net8.0\refint\c#Intro.dll
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\c#Intro\c#Intro\obj\Debug\net8.0\c#Intro.pdb
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\c#Intro\c#Intro\obj\Debug\net8.0\c#Intro.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\c#Intro\c#Intro\obj\Debug\net8.0\ref\c#Intro.dll

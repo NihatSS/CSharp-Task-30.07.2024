@@ -53,18 +53,18 @@
 //{
 //    if (i%2==0)
 //    {
-//        sum+=i
+//        sum += i;
 //    }
 //}
 //Console.WriteLine(sum);
 
-////6) Gelen ededin faktorialini hesablayin.
+//6) Gelen ededin faktorialini hesablayin.
 
-//int num = 8;
-//int factorial = 1;
+int num = 8;
+int factorial = 1;
 
-//for (int i = 1; i < num; i++)
-//{
-//    factorial *= i;
-//}
-//Console.WriteLine(factorial);
+for (int i = 1; i <= num; i++)
+{
+    factorial *= i;
+}
+Console.WriteLine(factorial);
